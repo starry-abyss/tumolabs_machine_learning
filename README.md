@@ -1,2 +1,3 @@
-# tumolabs_machine_learning
-For ML projects from Tumo Labs
+For ML projects from Tumo Labs "Machine Learning" module.
+
+Please look deeper inside the directories for task-specific READMEs.
