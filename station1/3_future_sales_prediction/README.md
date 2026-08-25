@@ -13,6 +13,6 @@ Let's use a standard split of 20% for test data. We are going to import the Line
 
 After fitting we can plot the scatters again with the model line on top. There is more correlation of Sales with TV and Radio a campaigns and little to none - with Newspaper ads.
 
-The resulting precision is around 90% for the training set, and around 80% for the test set, which also looks realistic and good.
+The resulting precision is around 91% for the training set, and around 89% for the test set, which also looks realistic and good.
 
 I think it makes sense to firstly cut the budget of Newspaper ads because its influence on the resulting sales doesn't increase very much by increasing the spendings. Instead the focus should be more on the balance between TV and Radio ads.

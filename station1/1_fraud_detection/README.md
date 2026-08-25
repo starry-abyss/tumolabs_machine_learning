@@ -27,4 +27,4 @@ Here are the weights (importances) of the features after fitting the sklearn mod
 
 The accuracy of the model on the training set if 100%. From what I know, it's common for this type of model, and I don't possess deep knowledge of this model as of learning station 1 in order to tune it to not overfit the dataset.
 
-For test data it's also close to 100% because positive cases are in minority, but when giving only positive input, the accuracy is 85.7%, which looks good to me.
+For test data it's also close to 100% because positive cases are in minority, but when giving only positive input, the accuracy is 84%, which looks good to me.
