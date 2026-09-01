@@ -1,5 +1,9 @@
 # Online Payments Fraud Detection
 
+The project is aimed to automate fraud detection during financial transactions.
+
+The Python notebook can be viewed right in this Github repository. I've used anaconda.com/app to create it, but probably it will work in other flavors of Python notebooks too.
+
 The model used in the project is sklearn.tree.DecisionTreeClassifier
 
 The dataset has 6,354,407 samples, so it's OK to use 20% of its samples for testing.

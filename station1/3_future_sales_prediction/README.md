@@ -1,5 +1,9 @@
 # Future Sales Prediction
 
+The project is aimed to evaluate the return of investment in different advertising platforms.
+
+The Python notebook can be viewed right in this Github repository. I've used anaconda.com/app to create it, but probably it will work in other flavors of Python notebooks too.
+
 We have datapoints for the Sales label with respect to the amount of advertisement budget per platform for the same time period.
 
 The platforms (from ML perspective they are features) for which we data are the following:
