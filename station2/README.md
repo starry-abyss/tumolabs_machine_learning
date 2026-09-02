@@ -225,7 +225,7 @@ Now the KNeighborsClassifier model not only ties the GaussianNB model in the rec
 Trying different K hyper-parameter values (from 1 to 20) showed that the highest recall is still for the default K=5.
 
 
-The score for the best model so far on the test set is 0.973.
+The score for KNeighborsClassifier on the test set is 0.973.
 
 **Classification report:**
 
